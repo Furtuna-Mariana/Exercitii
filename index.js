@@ -148,4 +148,4 @@ let mesajul = alegeSalutul (ora);
 console.log(mesajul);
 
    
-    
+    .
